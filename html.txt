@@ -1,0 +1,169 @@
+<html>
+<head>
+<title> this is title </title>
+</head>
+<body>
+this is we page
+<h1>heading-1</h1>
+<h2>heading-2</h2>
+<h3>heading-3</h3>
+<b>bold faced text</b>
+<i>italics</i> <br>
+<u>underlined</u> <br>
+<b><i><u> bold italics underlined</u></i></b>
+<p>new paragraph</p>
+</body>
+</html>
+
+
+
+
+
+<html>
+<body bgcolor="cyan">
+<ol type="I">
+<li>thumsup
+<li>pepsi
+<li>coke
+<li>sprite
+<li>fanta
+</ol><br>
+<ul>
+<li>thumsup
+<li>pepsi
+<li>coke
+<li>sprite
+<li>fanta
+</ul>
+</body>
+</html>
+
+
+
+
+<html>
+<body>
+<a href="listing.html">click here</a><br>
+<img src="blackrose.jpg" height="100" width="150"/><br>
+<font size="5" color="red">hello</font>
+</body>
+</html>
+
+
+
+
+<html>
+<body>
+<table border="2" cellpadding="5" cellspacing="5">
+<caption>sample table</caption>
+<tr>
+<th>employee code</th>
+<th>employee name</th>
+<th>employee id</th>
+</tr>
+<TR><TD>1234</TD> <TD>DELOITTE</TD><TD>3</TD></TR>
+<TR><TD>1334</TD> <TD>DELOITTE</TD><TD>4</TD></TR>
+</table>
+</body>
+</html>
+
+
+
+
+
+<html>
+<body>
+<table border="2"bgcolor="silver"bordercolor="blue">
+<p> 
+<tr>
+<th rowspan="2"style="color:blue">student name</th>
+<th colspan="3"style="color:red">student marks</th>
+<th rowspan="2"style="color:yellow"> student gpa</th>
+</tr>
+<tr style="color:green"><th>sub-1</th><th>sub-2</th><th>sub-3</th></tr>
+<tr style="color:brown"><td>deloitte<td>55<td>76<td>99<td>9</tr>
+</table>
+</body>
+</html>
+
+
+
+
+
+<html>
+<body>
+<form>
+enter name<input type="text" name="empname" value="your name" readonly <br>
+enter password <input type="password" name="pwd"><br>
+experience<textarea rows="2" cols="40" name="exp"></textarea><br>
+technologies<input type="checkbox" name="tech" value="oracle">Oracle
+technologies<input type="checkbox" name="tech" value="spring">spring<br>
+marital status <input type="radio"name="status"value="single">single<br>
+select month<select name="month">
+<option value="jan">january</option>
+<option value="feb">february</option>
+</select><br>
+<input type="button" value="hello">
+<input type="submit">
+</form>
+</body>
+</html>
+
+
+
+
+
+<html>
+<head>
+<style>
+body {
+background-color:silver;
+}
+p{
+text-align:center;color:red;
+}
+#h1{
+color:blue;
+}
+.h2{
+color:sienna;
+}
+</style>
+</head>
+<body>
+<p style="background-color:yellow;">this is para one</p> <br>
+<h1 id="h1">this is heading H1</h1>
+<h2 class="h2">this is head H2</h2>
+</body>
+
+
+
+
+
+h1{
+color:sienna;
+}
+h4{
+color:blue;
+}
+p{
+text-color:red;
+}
+body{
+background-color:pink;
+}
+
+
+
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css"href="cssss.css">
+</head>
+<body>
+<h1>heading 1</h1>
+<h2>heading 2</h2>
+<h4>heading 4</h4>
+<p> a sample paragraph</p> <br>
+this is normal text.....
+</html
